@@ -16,6 +16,10 @@ The environment is considered solved if the agent collects an average reward of 
 
 Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
 
+* Clone the repository
+
+`git clone https://www.github.com/yemikifouly/drlnd_p2_continuous_control`
+
 * Activate the environment
 
 Please follow the [instructions in the DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
